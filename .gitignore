@@ -1,0 +1,20 @@
+# Auto-generated or compiled
+__pycache__/
+*.class                       # Java bytecode files
+lucene_index/                # Lucene index folder (auto-generated)
+whoosh_index/                # Whoosh index folder (auto-generated)
+
+# Outputs
+*.png                        
+experiment_docs.json        
+*.Result.class              
+
+# Experimental or redundant scripts
+experiment.py               
+benchmark.py                 
+
+/lib
+indexer/indexdir
+whoosh_index/
+.DS_Store
+abc.sh
