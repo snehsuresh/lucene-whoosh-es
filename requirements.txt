@@ -1,0 +1,7 @@
+whoosh
+fastapi
+uvicorn
+pandas
+matplotlib
+ace_tools
+elasticsearch
