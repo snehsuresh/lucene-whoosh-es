@@ -1,0 +1,11 @@
+{
+  "fields": [
+    {"name": "id", "type": "ID"},
+    {"name": "name", "type": "TEXT"},
+    {"name": "description", "type": "TEXT"},
+    {"name": "category", "type": "KEYWORD"},
+    {"name": "available", "type": "BOOLEAN"},
+    {"name": "latitude", "type": "NUMERIC"},
+    {"name": "longitude", "type": "NUMERIC"}
+  ]
+}
