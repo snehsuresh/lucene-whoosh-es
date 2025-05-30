@@ -1,0 +1,40 @@
+[
+  {
+    "id": "store_001",
+    "type": "store",
+    "name": "Joe's Pizza",
+    "location": "Boston",
+    "is_open": true
+  },
+  {
+    "id": "item_001",
+    "type": "item",
+    "name": "Pepperoni Pizza",
+    "store_id": "store_001",
+    "price": 12.99,
+    "availability": true
+  },
+  {
+    "id": "item_002",
+    "type": "item",
+    "name": "Veggie Pizza",
+    "store_id": "store_001",
+    "price": 11.49,
+    "availability": true
+  },
+  {
+    "id": "store_002",
+    "type": "store",
+    "name": "Tandoori Hub",
+    "location": "Cambridge",
+    "is_open": false
+  },
+  {
+    "id": "item_003",
+    "type": "item",
+    "name": "Chicken Tikka Pizza",
+    "store_id": "store_002",
+    "price": 13.99,
+    "availability": false
+  }
+]
