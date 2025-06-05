@@ -121,9 +121,17 @@ Lucene outperformed both alternatives by over 100x at the tail.
 
 Output charts:
 
-- avg_latency_es_vs_whoosh.png
-- latency_distribution_es_vs_whoosh.png
-- indexing_time_es_vs_whoosh.png
+### Average Latency Comparison
+
+![Average Latency](figures/avg_latency_es_vs_whoosh.png)
+
+### Latency Distribution
+
+![Latency Distribution](figures/latency_distribution_es_vs_whoosh.png)
+
+### Indexing Time Comparison
+
+![Indexing Time](figures/indexing_time_es_vs_whoosh.png)
 
 ### Repo Name Suggestions
 
