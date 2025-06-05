@@ -132,13 +132,3 @@ Output charts:
 ### Indexing Time Comparison
 
 ![Indexing Time](figures/indexing_time_es_vs_whoosh.png)
-
-### Repo Name Suggestions
-
----
-
-- lucene-vs-es-vs-whoosh
-- doordash-inspired-search
-- fastsearch-prototype
-- lucene-benchmark-2025
-- search-stack-reimagined
