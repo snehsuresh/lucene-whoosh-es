@@ -4,8 +4,7 @@ __pycache__/
 lucene_index/                # Lucene index folder (auto-generated)
 whoosh_index/                # Whoosh index folder (auto-generated)
 
-# Outputs
-*.png                        
+# Outputs                   
 experiment_docs.json        
 *.Result.class              
 
